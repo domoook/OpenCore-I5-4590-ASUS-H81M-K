@@ -1,4 +1,4 @@
-# Opencore-I5-4590-ASUS-H81M-K
+# OpenCore-I5-4590-ASUS-H81M-K
 
 # 请自行生成PlatformInfo填入！！！！！！！可选机型iMac15，1
 
